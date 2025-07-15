@@ -108,3 +108,68 @@ node 4-concat.js c       //c is undefined
 node 4-concat.js     //undefined is undefined
 
 
+## Task: 5-to_interger.js
+
+##Task Description 
+
+Write a script that prints My number: <first argument converted in integer> if the first argument can be converted to an integer:
+
+If the argument can’t be converted to an integer, print “Not a number”
+You must use console.log(...) to print all output
+You are not allowed to use var
+You are not allowed to use try/catch
+
+## How to Run
+
+node 5-to_integer.js  // Not a number
+node 5-to_integer.js 89   // My number: 89
+node 5-to_integer.js "89"  // My number: 89
+node 5-to_integer.js 89.89  // My number: 89
+node 5-to_integer.js School  //Not a number
+
+
+
+## Task: 6-multi_languages_loop.js
+
+##Task Description 
+
+
+Write a script that prints 3 lines: (like 1-multi_languages.js) but by using an array of string and a loop
+
+The first line: “C is fun”
+The second line: “Python is cool”
+The third line: “JavaScript is amazing”
+You must use console.log(...) to print all output
+You are not allowed to use var
+You are not allowed to use any if/else statement
+You can use only one console.log
+You must use a loop (while, for, etc.)
+
+
+##How to Run
+
+node 6-multi_languages_loop.js 
+C is fun
+Python is cool
+JavaScript is amazing
+
+
+
+## Task: 4-concat.js
+
+##Task Description 
+
+
+## Task: 4-concat.js
+
+##Task Description 
+
+
+## Task: 4-concat.js
+
+##Task Description 
+
+
+## Task: 4-concat.js
+
+##Task Description 
