@@ -69,3 +69,23 @@ To run any file, use:
 node 2-arguments.js  //No argument
 node 2-arguments.js Best //Argument found
 node 2-arguments.js Best School //Arguments found
+
+
+
+## Task: 2-arguments.js
+
+##Task Description 
+
+Write a script that prints the first argument passed to it:
+
+If no arguments are passed to the script, print “No argument”
+You must use console.log(...) to print all output
+You are not allowed to use var
+You are not allowed to use length
+
+To run any file, use:
+
+```bash
+node 3-value_argument.js   //No argument
+node 3-value_arguments.js School  //School
+
