@@ -1,14 +1,14 @@
 
-## 📚 ALX Front End Assignment
+## ALX Front End Assignment
 
 This project is part of the **ALX Front End Programme**.  
 The goal of this task is to practice JavaScript fundamentals — specifically working with variables, output, and basic syntax.
 
 ---
 
-## 📝 Task: 0-javascript_is_amazing.js
+## Task: 0-javascript_is_amazing.js
 
-## 🎯 Task Description
+## Task Description
 
 Write a script that prints:
 
@@ -19,7 +19,7 @@ Write a script that prints:
 
 
 
-## 💻 How to Run
+## How to Run
 
 To run any file, use:
 
@@ -27,3 +27,24 @@ To run any file, use:
 node 0-javascript_is_amazing.js
 
 
+
+## Task: 1-multi_languages.js
+
+##Task Description
+
+
+Write a script that prints 3 lines:
+
+The first line: “C is fun”
+The second line: “Python is cool”
+The third line: “JavaScript is amazing”
+You must use console.log(...) to print all output
+You are not allowed to use var
+
+
+## How to Run
+
+To run any file, use:
+
+```bash
+node 1-multi_languages.js
