@@ -2,9 +2,7 @@
 ## ALX Front End Assignment
 
 This project is part of the **ALX Front End Programme**.  
-The goal of this task is to practice JavaScript fundamentals — specifically working with variables, output, and basic syntax.
-
----
+The goal of this task is to practice JavaScript fundamentals specifically working with variables, output, and basic syntax.
 
 ## Task: 0-javascript_is_amazing.js
 
@@ -48,3 +46,26 @@ To run any file, use:
 
 ```bash
 node 1-multi_languages.js
+
+
+## Task: 2-arguments.js
+
+##Task Description 
+
+Write a script that prints a message depending of the number of arguments passed:
+
+If no arguments are passed to the script, print “No argument”
+If only one argument is passed to the script, print “Argument found”
+Otherwise, print “Arguments found”
+You must use console.log(...) to print all output
+You are not allowed to use var
+
+
+## How to Run
+
+To run any file, use:
+
+```bash
+node 2-arguments.js  //No argument
+node 2-arguments.js Best //Argument found
+node 2-arguments.js Best School //Arguments found
