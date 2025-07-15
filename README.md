@@ -72,7 +72,7 @@ node 2-arguments.js Best School //Arguments found
 
 
 
-## Task: 2-arguments.js
+## Task: 3-value_argument.js
 
 ##Task Description 
 
@@ -88,4 +88,23 @@ To run any file, use:
 ```bash
 node 3-value_argument.js   //No argument
 node 3-value_arguments.js School  //School
+
+ 
+## Task: 4-concat.js
+
+##Task Description 
+
+Write a script that prints two arguments passed to it, in the following format: “ is ”
+
+You must use console.log(...) to print all output
+You are not allowed to use var
+
+To run any file, use:
+
+```bash
+
+node 4-concat.js c cool   // c is cool
+node 4-concat.js c       //c is undefined
+node 4-concat.js     //undefined is undefined
+
 
